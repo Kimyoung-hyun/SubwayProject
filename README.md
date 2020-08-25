@@ -15,11 +15,11 @@
         <th>세미 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
-          (<a href="https://github.com/prohwww">전혜원</a>｜<a href="https://github.com/Kimyoung-hyun">김영현</a>｜정희수｜윤희선｜조윤경｜한시연)
-            
-      </th>
-    </tr>
-      <tr>
+          (<a href="https://github.com/prohwww">전혜원</a>｜<a href="https://github.com/Kimyoung-hyun">김영현</a>｜정희수｜윤희선｜조윤경｜한시연)</th>
+    </tr>        
+      
+    
+  <tr>
         <th>프로젝트 개요</th>
         <th>실시간 지하철 노선 시간 알림 프로그램</th>
         <th>개발환경&nbsp;</th>
